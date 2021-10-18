@@ -148,6 +148,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 /* All <h2> headings enclosed in the footer tags will get affected */
 footer h2 {
     font-size: 20px;
